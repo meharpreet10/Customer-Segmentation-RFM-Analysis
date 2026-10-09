@@ -1,7 +1,7 @@
 
 ## Customer Segmentation & RFM Analysis: Retention Budget Allocation
 
-## Tools: MySQL 8 | Power BI | Excel (data prep) Data: UCI Online Retail II (UK online retailer, Dec 2009 - Dec 2011, about 1M transactions)
+Tools: MySQL 8 | Power BI | Excel (data prep) Data: UCI Online Retail II (UK online retailer, Dec 2009 - Dec 2011, about 1M transactions)
 
 ## Business problem
 
